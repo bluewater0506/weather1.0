@@ -15,6 +15,7 @@
                 <p class="text-red-500 hidden text-xs px-4" id="alert"> </p>
             </div>
         </div>
+        
         <div class="w-full max-w-[600px] m-auto mt-6">
             <div class="flex justify-end px-4">
                 <div class="pr-4">°C</div>
